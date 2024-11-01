@@ -1,0 +1,1 @@
+Este proyecto es una aplicación de cuestionario interactivo en JavaScript que obtiene preguntas de una API de Trivia y permite al usuario responder, mostrando feedback visual sobre la corrección de cada respuesta.
